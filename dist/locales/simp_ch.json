@@ -1,0 +1,12 @@
+{
+	"simply_chinese":"简体中文",
+	"Traditional_chinese":"繁体中文",
+	"en":"英式英文",
+	"hello":"你好",
+	"key":"钥匙",
+	"nav":{
+		"home":"家",
+		"page1":"页面1",
+		"page2":"页面2"
+	}
+}
